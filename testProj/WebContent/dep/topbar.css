@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Ubuntu-Regular;
+  src: url('../fonts/ubuntu/Ubuntu-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: Ubuntu-Bold;
+  src: url('../fonts/ubuntu/Ubuntu-Bold.ttf'); 
+}
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url('../fonts/poppins/Poppins-SemiBold.ttf'); 
+}
+
+#textnavbar{
+            font-family: Poppins-SemiBold;
+            font-size: 17px;
+            color:black;
+            text-decoration:overline;    
+        }
+#textnavbar:hover{
+    font-family: Poppins-SemiBold;
+    text-decoration:none; 
+    color: #f4511e;
+}
